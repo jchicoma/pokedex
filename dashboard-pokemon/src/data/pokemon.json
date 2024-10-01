@@ -1,0 +1,199 @@
+{
+  "pokemon": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass/Poison",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "evolutions": [
+        {
+          "name": "Ivysaur",
+          "type": "Grass/Poison",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+        },
+        {
+          "name": "Venusaur",
+          "type": "Grass/Poison",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+        }
+      ]
+    },
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "evolutions": [
+        {
+          "name": "Charmeleon",
+          "type": "Fire",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+        },
+        {
+          "name": "Charizard",
+          "type": "Fire/Flying",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+        }
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+      "evolutions": [
+        {
+          "name": "Wartortle",
+          "type": "Water",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+        },
+        {
+          "name": "Blastoise",
+          "type": "Water",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+        }
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+      "evolutions": [
+        {
+          "name": "Raichu",
+          "type": "Electric",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+        }
+      ]
+    },
+    {
+      "name": "Jigglypuff",
+      "type": "Normal/Fairy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+      "evolutions": [
+        {
+          "name": "Wigglytuff",
+          "type": "Normal/Fairy",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
+        }
+      ]
+    },
+    {
+      "name": "Gengar",
+      "type": "Ghost/Poison",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+      "evolutions": []
+    },
+    {
+      "name": "Machop",
+      "type": "Fighting",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+      "evolutions": [
+        {
+          "name": "Machoke",
+          "type": "Fighting",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
+        },
+        {
+          "name": "Machamp",
+          "type": "Fighting",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
+        }
+      ]
+    },
+    {
+      "name": "Vulpix",
+      "type": "Fire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+      "evolutions": [
+        {
+          "name": "Ninetales",
+          "type": "Fire",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
+        }
+      ]
+    },
+    {
+      "name": "Geodude",
+      "type": "Rock/Ground",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+      "evolutions": [
+        {
+          "name": "Graveler",
+          "type": "Rock/Ground",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
+        },
+        {
+          "name": "Golem",
+          "type": "Rock/Ground",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
+        }
+      ]
+    },
+    {
+      "name": "Abra",
+      "type": "Psychic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+      "evolutions": [
+        {
+          "name": "Kadabra",
+          "type": "Psychic",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
+        },
+        {
+          "name": "Alakazam",
+          "type": "Psychic",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+        }
+      ]
+    },
+    {
+      "name": "Machop",
+      "type": "Fighting",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+      "evolutions": [
+        {
+          "name": "Machoke",
+          "type": "Fighting",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
+        },
+        {
+          "name": "Machamp",
+          "type": "Fighting",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
+        }
+      ]
+    },
+    {
+      "name": "Ditto",
+      "type": "Normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+      "evolutions": []
+    },
+    {
+      "name": "Eevee",
+      "type": "Normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+      "evolutions": [
+        {
+          "name": "Vaporeon",
+          "type": "Water",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
+        },
+        {
+          "name": "Jolteon",
+          "type": "Electric",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png"
+        },
+        {
+          "name": "Flareon",
+          "type": "Fire",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png"
+        }
+      ]
+    },
+    {
+      "name": "Snorlax",
+      "type": "Normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+      "evolutions": []
+    }
+  ]
+}
